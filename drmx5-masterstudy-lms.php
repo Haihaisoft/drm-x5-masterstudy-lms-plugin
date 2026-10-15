@@ -3,7 +3,7 @@
  * Plugin Name: DRM-X 5.0 Integration for MasterStudy LMS
  * Plugin URI: https://www.drm-x.com/
  * Description: Integrates DRM-X 5.0 protected content and the ZJGet player with WordPress and MasterStudy LMS.
- * Version: 1.0.0
+ * Version: 1.1.1
  * Author: Haihaisoft
  * Author URI: https://www.haihaisoft.com/
  * Text Domain: drmx5-masterstudy-lms
@@ -16,7 +16,7 @@
 
 defined('ABSPATH') || exit;
 
-define('DRMX5_MSLMS_VERSION', '1.0.0');
+define('DRMX5_MSLMS_VERSION', '1.1.1');
 define('DRMX5_MSLMS_FILE', __FILE__);
 define('DRMX5_MSLMS_DIR', plugin_dir_path(__FILE__));
 define('DRMX5_MSLMS_URL', plugin_dir_url(__FILE__));
